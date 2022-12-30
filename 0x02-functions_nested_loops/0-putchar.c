@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
-#include <main.h>
+#include "main.h"
 /**
  * main - check the description
  * Description: Prints the word Azeez in a new line.
