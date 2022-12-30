@@ -3,7 +3,7 @@
 #include "main.h"
 /**
  * main - check the description
- * Description: Prints the word Azeez in a new line.
+ * Description: Prints the word "Azeezalab" in a new line.
  * Return: 0
  */
 int main(void)
@@ -13,6 +13,10 @@ int main(void)
 	_putchar('e');
 	_putchar('e');
 	_putchar('z');
+	_putchar('a');
+	_putchar('l');
+	_putchar('a');
+	_putchar('b');
 	_putchar('\n');
 
 	return (0);
