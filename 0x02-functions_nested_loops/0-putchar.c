@@ -8,12 +8,11 @@
  */
 int main(void)
 {
-	char name[5] = "Azeez";
-	
-	int i;
-
-	for (i = 0; i < 5; i++)
-		_putchar(name[i]);
+	_putchar('A');
+	_putchar('z');
+	_putchar('e');
+	_putchar('e');
+	_putchar('z');
 	_putchar('\n');
 
 	return (0);
