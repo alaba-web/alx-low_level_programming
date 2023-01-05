@@ -16,15 +16,12 @@ int _sqrt_recursion(int n)
 	return (_sqrt(1, n));
 }
 
-
-
 /**
  * _sqrt - find square root
  * @prev: previous value
  * @root: square root value
  * Return: the square root
  */
-
 int _sqrt(int prev, int root)
 {
 	if (prev > root)
